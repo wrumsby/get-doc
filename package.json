@@ -1,0 +1,24 @@
+{
+  "name": "get-doc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "mocha --reporter tap"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "author": "Walter Rumsby",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.4.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-register": "^6.3.13",
+    "chai": "^3.4.1",
+    "eslint": "^1.10.3",
+    "jsdom": "^7.2.2",
+    "mocha": "^2.3.4"
+  }
+}

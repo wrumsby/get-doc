@@ -1,0 +1,20 @@
+{
+  "name": "get-doc",
+  "authors": [
+    "Walter Rumsby"
+  ],
+  "description": "",
+  "main": "src/index.js",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "package.json"
+  ]
+}
